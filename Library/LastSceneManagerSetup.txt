@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/GoogleARCore/Examples/AugmentedImage/Scenes/AugmentedImage.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/GoogleARCore/Examples/AugmentedImage/Scenes/Globe.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/GoogleARCore/Examples/AugmentedImage/Scenes/ZoomableMap.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
